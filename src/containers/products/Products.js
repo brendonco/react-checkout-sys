@@ -15,7 +15,7 @@ const Products = ({ products = [], productState, handleQtyChange, savedData, gra
       <div className="row footer">
         <div className="col"></div>
         <div className="col prod__label">Grand Total:</div>
-        <div className="col prod__total">{`${grandTotal}`}</div>
+        <div className="col prod__total">{`$${grandTotal}`}</div>
       </div>
     </div>
   );

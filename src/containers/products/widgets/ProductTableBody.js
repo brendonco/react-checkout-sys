@@ -15,7 +15,7 @@ const ProductTableBody = ({ products = [], handleQtyChange }) => {
           onBlur={handleQtyChange}
         />
       </div>
-      <div className="col col__item">{product.displayPrice}</div>
+      <div className="col col__item">${product.displayPrice}</div>
     </div>
   );
 
