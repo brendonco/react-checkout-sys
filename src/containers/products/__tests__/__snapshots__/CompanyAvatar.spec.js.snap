@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render different avatar Render list of avatar 1`] = `
+<img
+  alt="avatar"
+  className="company__avatar"
+  src="unilever-logo.svg"
+/>
+`;
+
+exports[`Render different avatar Render list of avatar 2`] = `
+<img
+  alt="avatar"
+  className="company__avatar"
+  src="apple-logo.svg"
+/>
+`;
+
+exports[`Render different avatar Render list of avatar 3`] = `
+<img
+  alt="avatar"
+  className="company__avatar"
+  src="nike-logo.svg"
+/>
+`;
+
+exports[`Render different avatar Render list of avatar 4`] = `
+<img
+  alt="avatar"
+  className="company__avatar"
+  src="ford-logo.svg"
+/>
+`;
+
+exports[`Render different avatar Render list of avatar 5`] = `
+<img
+  alt="avatar"
+  className="company__avatar"
+  src="default-logo.svg"
+/>
+`;

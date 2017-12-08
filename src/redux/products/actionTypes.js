@@ -1,0 +1,13 @@
+export const GET_PROD_LIST = 'GET_PROD_LIST';
+export const GET_PROD_LIST_START = 'GET_PROD_LIST_START';
+export const GET_PROD_LIST_SUCCESS = 'GET_PROD_LIST_SUCCESS';
+export const GET_PROD_LIST_ERROR = 'GET_PROD_LIST_ERROR';
+
+export const PROD_ADD = 'PROD_ADD';
+export const PROD_ADD_START = 'PROD_ADD_START';
+export const PROD_ADD_SUCCESS = 'PROD_ADD_SUCCESS';
+export const PROD_ADD_ERROR = 'PROD_ADD_ERROR';
+
+export const UPDATE_PROD_DATA = 'UPDATE_PROD_DATA';
+
+export const GET_GRAND_TOTAL = 'GET_GRAND_TOTAL';

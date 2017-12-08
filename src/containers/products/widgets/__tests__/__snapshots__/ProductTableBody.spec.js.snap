@@ -1,0 +1,87 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render ProductsContent Renders products 1`] = `
+<form>
+  <div
+    className="row"
+  >
+    <div
+      className="col col__item col__item--description"
+    >
+      Classic Ad
+    </div>
+    <div
+      className="col col__item col__item--quantity"
+    >
+      <input
+        className="textfield"
+        min="1"
+        name="classic"
+        onBlur={[Function]}
+        onChange={[Function]}
+        pattern="[1-9]+"
+        type="number"
+      />
+    </div>
+    <div
+      className="col col__item"
+    >
+      3,239.88
+    </div>
+  </div>
+  <div
+    className="row"
+  >
+    <div
+      className="col col__item col__item--description"
+    >
+      Standout Ad
+    </div>
+    <div
+      className="col col__item col__item--quantity"
+    >
+      <input
+        className="textfield"
+        min="1"
+        name="standout"
+        onBlur={[Function]}
+        onChange={[Function]}
+        pattern="[1-9]+"
+        type="number"
+      />
+    </div>
+    <div
+      className="col col__item"
+    >
+      7,105.78
+    </div>
+  </div>
+  <div
+    className="row"
+  >
+    <div
+      className="col col__item col__item--description"
+    >
+      Premium Ad
+    </div>
+    <div
+      className="col col__item col__item--quantity"
+    >
+      <input
+        className="textfield"
+        min="1"
+        name="premium"
+        onBlur={[Function]}
+        onChange={[Function]}
+        pattern="[1-9]+"
+        type="number"
+      />
+    </div>
+    <div
+      className="col col__item"
+    >
+      126,916.66
+    </div>
+  </div>
+</form>
+`;
