@@ -3,7 +3,7 @@
 
 ### Setup
 
-* npm install or yarn install
+* npm install or yarn or yarn install
 * npm run start or yarn start
 * This will launch chrome browser and listen at port 3000. http://localhost:3000/products
 * Place the company name after products to apply specific company discounted item. e.g. http://localhost:3000/products/apple
@@ -22,5 +22,25 @@
   * Gets a discount on Standout Ads where the price drops to $309.99 per ad
   * Gets a discount on Premium Ads when 3 or more are purchased. The price drops to $389.99 per ad
 
+### Sample checkout object
+```
+[
+  {
+    "productId": "classic",
+    "quantity": 12,
+    "totalPrice": "3239.88"
+  },
+  {
+    "productId": "standout",
+    "quantity": 12,
+    "totalPrice": "3599.88"
+  },
+  {
+    "productId": "premium",
+    "quantity": 12,
+    "totalPrice": "4739.88"
+  }
+]
+```
 
 ![mtqq1kzhku](https://user-images.githubusercontent.com/6521691/33774680-0d15c58a-dc77-11e7-9ffd-d90dba8aff20.gif)
