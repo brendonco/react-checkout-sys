@@ -26,6 +26,7 @@ exports[`Render ProductsContent Renders products 1`] = `
     <div
       className="col col__item"
     >
+      $
       3,239.88
     </div>
   </div>
@@ -53,6 +54,7 @@ exports[`Render ProductsContent Renders products 1`] = `
     <div
       className="col col__item"
     >
+      $
       7,105.78
     </div>
   </div>
@@ -80,6 +82,7 @@ exports[`Render ProductsContent Renders products 1`] = `
     <div
       className="col col__item"
     >
+      $
       126,916.66
     </div>
   </div>

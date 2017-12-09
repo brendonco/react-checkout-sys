@@ -1,7 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
-import { push } from 'react-router-redux';
 import { bindActionCreators } from 'redux';
 import { fetchProductList, updateProducts } from 'gdp-redux/products/actions';
 import { getGrandTotal } from 'gdp-redux/products/helper';
@@ -58,7 +57,6 @@ class ProductsContent extends React.Component {
 const mapDispatchToProps = dispatch => bindActionCreators({
   fetchProductList,
   updateProducts,
-  changePage: () => push('/checkout')
 }, dispatch);
 
 ProductsContent.propTypes = {
