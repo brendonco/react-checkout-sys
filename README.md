@@ -43,4 +43,11 @@
 ]
 ```
 
+### Test
+- npm run test or yarn test
+
+<img width="981" alt="screen shot 2017-12-09 at 5 58 15 pm" src="https://user-images.githubusercontent.com/6521691/33794640-a1d4b9f4-dd0a-11e7-907e-56c9ce82b5bf.png">
+
+
+### Sample Page
 ![mtqq1kzhku](https://user-images.githubusercontent.com/6521691/33774680-0d15c58a-dc77-11e7-9ffd-d90dba8aff20.gif)
