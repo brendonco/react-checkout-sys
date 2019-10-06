@@ -1,6 +1,8 @@
 
 ## Checkout System using React
 
+##Allows usrr to select product with special prcing rules. Price list consist of 3 types if category (Classic, Standout, Premium).
+
 ### Setup
 
 * npm install or yarn or yarn install
